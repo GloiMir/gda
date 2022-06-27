@@ -1,5 +1,3 @@
-console.log("Vous etes bel et bien sur notre page")
-
 const prenom = document.getElementById("prenom")
 const nom = document.getElementById("nom")
 const mail = document.getElementById("mail")
